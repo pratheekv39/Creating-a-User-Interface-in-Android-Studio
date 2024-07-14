@@ -11,6 +11,7 @@ In this assessment, I developed the Little Lemon food menu user interface. The p
 - Setting up the Theme: The project customizes the app's theme with specific colors and typography values from LittleLemonColor and MaterialTheme.
 
 **<span style="color:red">Important Note<span>**
+
 This project initially used a set of libraries and codebases that have since been deprecated. To ensure you are working with the latest, most up-to-date code and libraries, please switch to the "master" branch. The "master" branch contains the updated codebase with current libraries and improvements, ensuring compatibility and best practices.
 
 To switch to the "master" branch, follow these steps:
@@ -20,4 +21,4 @@ To switch to the "master" branch, follow these steps:
 - Run the following command to switch to the master branch
 
 ```
-$git checkout master
+$ git checkout master
